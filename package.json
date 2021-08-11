@@ -1,5 +1,5 @@
 {
-  "name": "platzi-react-avanzado",
+  "name": "petgram-react",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
